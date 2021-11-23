@@ -5,7 +5,7 @@
 "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
   
 <style>
-
+    <! --- CSS CODE --->
 .fa:hover {
             opacity: 0.8;
         }
@@ -23,7 +23,6 @@
         }
 
   body {
-    <! --- CSS CODE --->
   background-color: #fff ;
   min-height: 100vh;
   margin: 0;
@@ -115,6 +114,7 @@ body .entries .entry:nth-child(2n) .title.big:before {
     <a href="#" class="fa fa-linkedin"></a>
     </div>
     <div class="body">
+        <! --- ADD URL OF IMAGE INPLACE OF 'img_girl.jpg' --->
       <img src="img_girl.jpg" alt="name of person 1" style="width:500px;height:600px;">
     </div>
   </div>
